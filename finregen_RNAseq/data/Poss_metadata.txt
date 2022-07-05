@@ -1,0 +1,5 @@
+"dpa" "sample.id"
+"uninjured_rep1" "uninjured" "uninjured_rep1"
+"uninjured_rep2" "uninjured" "uninjured_rep2"
+"regen_rep1" "4DPA" "regen_rep1"
+"regen_rep2" "4DPA" "regen_rep2"
