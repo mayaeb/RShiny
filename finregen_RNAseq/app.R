@@ -3,7 +3,10 @@
 # bulk RNAseq data comparing uninjured caudal fin tissue to regenerating tissue
 #
 # Allows user to select gene of interest (searchable from dropdown list), 
-# returns expression information and plot of normalized counts between time points
+# returns expression information and plot of normalized counts between time points. 
+# Clicking on data points in the counts plot returns normalized counts per sample. 
+#
+# Also shows MA plot of experiment, with slider to adjust p-value threshold. 
 #
 
 library(shiny)
